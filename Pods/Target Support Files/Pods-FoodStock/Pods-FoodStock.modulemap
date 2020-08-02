@@ -1,0 +1,6 @@
+framework module Pods_FoodStock {
+  umbrella header "Pods-FoodStock-umbrella.h"
+
+  export *
+  module * { export * }
+}

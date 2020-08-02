@@ -1,0 +1,89 @@
+/* 
+  Localizable.strings
+  FoodStock
+
+  Created by Talent on 19.03.2020.
+  Copyright © 2020 Talent. All rights reserved.
+*/
+"Food stock and Spending" = "Voedselvoorraad – Uitgaven";
+"Food stock" = "Voedselvoorraad";
+"Spending" = "Uitgaven";
+"Settings" = "Instellingen";
+"Privacy Policy" = "Privacybeleid";
+"Food Stock" = "Voedselvoorraad";
+"Stocked up" = "Voorradig";
+"Beverage" = "Drank";
+"Milk" = "Melk";
+"Coffee" = "Koffie";
+"Fruit" = "Fruit";
+"Apple" = "Appel";
+"Oranges" = "Sinaasappelen";
+"Grains" = "Granen";
+"Cereals" = "Ontbijtgranen";
+"Flour" = "Meel";
+"Meat" = "Vlees";
+"Chicken" = "Kip";
+"Beef" = "Rundvlees";
+"Pasta" = "Pasta";
+"Macaroni" = "Macaroni";
+"Penne" = "Penne";
+"Toiletries" = "Toiletartikelen";
+"Toothpaste" = "Tandenpasta";
+"Soap" = "Zeep";
+"Please input food type" = "Voer het type voedsel in";
+"Dismiss" = "Annuleren";
+"Add" = "Toevoegen";
+"Kg" = "Kg";
+"L" = "L";
+"Lbs" = "Ponden";
+"Pcs" = "Stuks";
+"Spending" = "Uitgaven";
+"Total Spending" = "Totale uitgaven";
+"Rent" = "Huur";
+"Food" = "Voedsel";
+"Car Payment" = "Auto";
+"Entertainment" = "Vermaak";
+"Electricity" = "Electriciteit";
+"Gas" = "Gas";
+"Transport Cost" = "Transportkosten";
+"Phone bill" = "Telefoonrekeing";
+"Gym" = "Gym";
+"Edit" = "Bewerken";
+"Delete" = "Verwijderen";
+"Update spending data" = "Update uitgaven";
+"Dismiss" = "Annuleren";
+"Add" = "Toevoegen";
+"Add new Data" = "Gegevens toevoegen";
+"Please input name" = "Voer uw naam in";
+"Expiry : " = "houdbaarheidsdatum : ";
+"Email : " = "E-mail : ";
+"Food" = "Voedsel";
+"Please input quantity" = "Voer hoeveelheid in";
+"Goal Quantity : " = "Doel hoeveelheid : ";
+"Contact Details" = "Contactgegevens";
+"Quantity : " = "Hoeveelheid : ";
+"Unit (Kg, L, Lbs, Pcs) : " = "Eenheid(Kg, L, Ponden, Stuks) : ";
+"Language : " = "Taal : ";
+"Name : " = "Naam : ";
+"Please input goal" = "Voer uw doel in";
+"Missing Field" = "Ontbrekend veld";
+"You must input food Name" = "Voedselnaam invoeren";
+"Ok" = "Oke";
+"Loading Error" = "Fout bij het laden";
+"Server Error" = "Serverfout";
+"Loading" = "Bezig met laden";
+"Downloading Error" = "Downloadfout";
+"Uploading Error" = "Uploadfout";
+"Deleting Failed" = "Verwijderen mislukt";
+"You must input expiry date" = "Een vervaldatum invoeren";
+"You must input quantity" = "Een hoeveelheid invoeren";
+"You must input goal quantity" = "De doelhoeveelheid invoeren";
+"You must select unit" = "Een eenheid selecteren";
+"title" = "Titel";
+"price" = "Prijs";
+"You must input 'spending title'" = "'Titel voor uitgaven' invoeren";
+"You must input 'spending price'" = "'Bestedingsprijs' invoeren";
+"Thanks for using my app!" = "Bedankt voor het gebruiken van mijn app!";
+"Done" = "Gedaan";
+"Select Language" = "Selecteer taal";
+

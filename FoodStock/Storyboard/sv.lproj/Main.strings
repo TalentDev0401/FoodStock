@@ -1,0 +1,108 @@
+
+/* Class = "UITextField"; placeholder = "Please input goal"; ObjectID = "1fl-Aa-j5C"; */
+"1fl-Aa-j5C.placeholder" = "Var god skriv in målet";
+
+/* Class = "UILabel"; text = "Foodstock2020@gmail.com"; ObjectID = "3Xe-l2-401"; */
+"3Xe-l2-401.text" = "Foodstock2020@gmail.com";
+
+/* Class = "UILabel"; text = "Name : "; ObjectID = "8Ez-WV-9zJ"; */
+"8Ez-WV-9zJ.text" = "Namn : ";
+
+/* Class = "UILabel"; text = "Language : "; ObjectID = "9O5-3B-uVt"; */
+"9O5-3B-uVt.text" = "Språk : ";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "BDX-pO-U2i"; */
+"BDX-pO-U2i.normalTitle" = "Done";
+
+/* Class = "UILabel"; text = "What Do You Love ?"; ObjectID = "BRe-BK-DMq"; */
+"BRe-BK-DMq.text" = "What Do You Love ?";
+
+/* Class = "UIButton"; normalTitle = "Skip"; ObjectID = "BVO-8i-zMI"; */
+"BVO-8i-zMI.normalTitle" = "Skip";
+
+/* Class = "UILabel"; text = "31/12/2020"; ObjectID = "Bok-28-qY7"; */
+"Bok-28-qY7.text" = "31/12/2020";
+
+/* Class = "UILabel"; text = "Lbs"; ObjectID = "CKw-9E-DYy"; */
+"CKw-9E-DYy.text" = "Pund";
+
+/* Class = "UILabel"; text = "31"; ObjectID = "EBh-mZ-rYA"; */
+"EBh-mZ-rYA.text" = "31";
+
+/* Class = "UINavigationItem"; title = "Select Language"; ObjectID = "GT1-VK-thj"; */
+"GT1-VK-thj.title" = "Select Language";
+
+/* Class = "UILabel"; text = "99999.00"; ObjectID = "GaX-bH-gHc"; */
+"GaX-bH-gHc.text" = "99999.00";
+
+/* Class = "UILabel"; text = "Unit (Kg, L, Lbs, Pcs) : "; ObjectID = "J9Y-U1-cgf"; */
+"J9Y-U1-cgf.text" = "Måttenhet(Kg, L, Pund, Styck) : ";
+
+/* Class = "UILabel"; text = "2020"; ObjectID = "Kd9-gR-khH"; */
+"Kd9-gR-khH.text" = "2020";
+
+/* Class = "UILabel"; text = "Lbs"; ObjectID = "Nzv-0Q-Kxq"; */
+"Nzv-0Q-Kxq.text" = "Pund";
+
+/* Class = "UILabel"; text = "Expiry :"; ObjectID = "P73-jn-hha"; */
+"P73-jn-hha.text" = "Utgång :";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "QnY-Rk-56j"; */
+"QnY-Rk-56j.normalTitle" = "Done";
+
+/* Class = "UILabel"; text = "1000 / 1000"; ObjectID = "SdW-Zz-E0O"; */
+"SdW-Zz-E0O.text" = "1000 / 1000";
+
+/* Class = "UILabel"; text = "99.99%"; ObjectID = "VGs-Af-BMu"; */
+"VGs-Af-BMu.text" = "99.99%";
+
+/* Class = "UILabel"; text = "Quantity : "; ObjectID = "X5w-v7-Sez"; */
+"X5w-v7-Sez.text" = "Kvantitet : ";
+
+/* Class = "UILabel"; text = "/"; ObjectID = "Zwe-aL-cgi"; */
+"Zwe-aL-cgi.text" = "/";
+
+/* Class = "UILabel"; text = "12"; ObjectID = "bRG-5o-yOd"; */
+"bRG-5o-yOd.text" = "12";
+
+/* Class = "UILabel"; text = "Contact Details"; ObjectID = "cdu-K9-MAM"; */
+"cdu-K9-MAM.text" = "Kontaktuppgifter";
+
+/* Class = "UILabel"; text = "Goal Quantity : "; ObjectID = "d7e-3V-sJ7"; */
+"d7e-3V-sJ7.text" = "Målkvantitet : ";
+
+/* Class = "UITextField"; placeholder = "Please input quantity"; ObjectID = "eVm-zD-97u"; */
+"eVm-zD-97u.placeholder" = "Var god skriv in kvantiteten";
+
+/* Class = "UILabel"; text = "Food"; ObjectID = "hRV-2q-JDX"; */
+"hRV-2q-JDX.text" = "Mat";
+
+/* Class = "UILabel"; text = "English"; ObjectID = "jVu-4K-8fH"; */
+"jVu-4K-8fH.text" = "English";
+
+/* Class = "UILabel"; text = "Food Stock And Spending"; ObjectID = "kAO-Z2-2zX"; */
+"kAO-Z2-2zX.text" = "Matlager och Utgifter";
+
+/* Class = "UILabel"; text = "/"; ObjectID = "nDL-0i-9DA"; */
+"nDL-0i-9DA.text" = "/";
+
+/* Class = "UILabel"; text = "Email : "; ObjectID = "oVR-C3-jJU"; */
+"oVR-C3-jJU.text" = "Email : ";
+
+/* Class = "UILabel"; text = "What Do You Love ?"; ObjectID = "q6U-9U-x2G"; */
+"q6U-9U-x2G.text" = "What Do You Love ?";
+
+/* Class = "UILabel"; text = "99.99%"; ObjectID = "qqa-ka-8wO"; */
+"qqa-ka-8wO.text" = "99.99%";
+
+/* Class = "UITextField"; placeholder = "Please input name"; ObjectID = "uyy-bO-7P8"; */
+"uyy-bO-7P8.placeholder" = "Var god skriv in namn";
+
+/* Class = "UIButton"; normalTitle = "Skip"; ObjectID = "vNl-2l-L2J"; */
+"vNl-2l-L2J.normalTitle" = "Skip";
+
+/* Class = "UILabel"; text = "Milk"; ObjectID = "w9c-DY-x9H"; */
+"w9c-DY-x9H.text" = "Mjölk";
+
+/* Class = "UILabel"; text = "Expiry : "; ObjectID = "wZO-6g-LGp"; */
+"wZO-6g-LGp.text" = "Utgång : ";

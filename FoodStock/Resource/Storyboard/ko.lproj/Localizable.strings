@@ -1,0 +1,89 @@
+/* 
+  Localizable.strings
+  FoodStock
+
+  Created by Talent on 19.03.2020.
+  Copyright © 2020 Talent. All rights reserved.
+*/
+"Food stock and Spending" = "식품 재고 및 지출";
+"Food stock" = "식품 재고";
+"Spending" = "지출";
+"Settings" = "설정";
+"Privacy Policy" = "개인정보 처리방침";
+"Food Stock" = "식품 재고";
+"Stocked up" = "재고";
+"Beverage" = "음료";
+"Milk" = "우유";
+"Coffee" = "커피";
+"Fruit" = "과일";
+"Apple" = "사과";
+"Oranges" = "오렌지";
+"Grains" = "곡물";
+"Cereals" = "시리얼";
+"Flour" = "밀가루";
+"Meat" = "고기";
+"Chicken" = "닭고기";
+"Beef" = "소고기";
+"Pasta" = "파스타";
+"Macaroni" = "마카로니";
+"Penne" = "펜네 파스타";
+"Toiletries" = "세면도구";
+"Toothpaste" = "치약";
+"Soap" = "비누";
+"Please input food type" = "식품 종류를 입력하십시오";
+"Dismiss" = "취소";
+"Add" = "추가";
+"Kg" = "Kg";
+"L" = "L";
+"Lbs" = "Lbs";
+"Pcs" = "Pcs";
+"Spending" = "지출";
+"Total Spending" = "총 지출";
+"Rent" = "집세";
+"Food" = "식품";
+"Car Payment" = "자동차 할부금";
+"Entertainment" = "여가 활동";
+"Electricity" = "전기세";
+"Gas" = "가스비";
+"Transport Cost" = "교통비";
+"Phone bill" = "전화 요금";
+"Gym" = "헬스장";
+"Edit" = "편집";
+"Delete" = "삭제";
+"Update spending data" = "지출 데이터 업데이트";
+"Dismiss" = "취소";
+"Add" = "추가";
+"Add new Data" = "새 데이터 추가";
+"Please input name" = "이름을 입력하십시오";
+"Expiry : " = "유통기한 : ";
+"Email : " = "이메일 : ";
+"Food" = "식품";
+"Please input quantity" = "수량을 입력해 주세요";
+"Goal Quantity : " = "목표 수량 : ";
+"Contact Details" = "연락처 정보";
+"Quantity : " = "수량 : ";
+"Unit (Kg, L, Lbs, Pcs) : " = "단위(Kg, L, Lbs, Pcs) : ";
+"Language : " = "언어 : ";
+"Name : " = "이름 : ";
+"Please input goal" = "입력 목표를 입력하십시오";
+"Missing Field" = "누락 된 필드";
+"You must input food Name" = "음식 이름";
+"Ok" = "확인";
+"Loading Error" = "로딩 오류";
+"Server Error" = "서버 오류";
+"Loading" = "로딩";
+"Downloading Error" = "다운로드 오류";
+"Uploading Error" = "업로드 오류";
+"Deleting Failed" = "삭제 실패";
+"You must input expiry date" = "만료일을 입력해야합니다";
+"You must input quantity" = "수량을 입력해야합니다";
+"You must input goal quantity" = "목표 수량을 입력해야합니다";
+"You must select unit" = "단위를 선택해야합니다";
+"title" = "표제";
+"price" = "가격";
+"You must input 'spending title'" = "지출 제목을 입력해야합니다";
+"You must input 'spending price'" = "지출 가격을 입력해야합니다";
+"Thanks for using my app!" = "내 앱을 이용해 주셔서 감사합니다!";
+"Done" = "끝난";
+"Select Language" = "언어를 선택하십시오";
+

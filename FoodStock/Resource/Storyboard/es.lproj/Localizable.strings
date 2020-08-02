@@ -1,0 +1,89 @@
+/* 
+  Localizable.strings
+  FoodStock
+
+  Created by Talent on 19.03.2020.
+  Copyright © 2020 Talent. All rights reserved.
+*/
+"Food stock and Spending" = "Stock de alimentos y Gastos";
+"Food stock" = "Stock de alimentos";
+"Spending" = "Gastos";
+"Settings" = "Ajustes";
+"Privacy Policy" = "Política de privacidad";
+"Food Stock" = "Stock de alimentos";
+"Stocked up" = "Despensa llena";
+"Beverage" = "Bebidas";
+"Milk" = "Leche";
+"Coffee" = "Café";
+"Fruit" = "Fruta";
+"Apple" = "Manzana";
+"Oranges" = "Naranjas";
+"Grains" = "Grano";
+"Cereals" = "Cereales";
+"Flour" = "Harina";
+"Meat" = "Carne";
+"Chicken" = "Pollo";
+"Beef" = "Vacuno";
+"Pasta" = "Pasta";
+"Macaroni" = "Caracoles";
+"Penne" = "Macarrones";
+"Toiletries" = "Artículos de baño";
+"Toothpaste" = "Pasta de dientes";
+"Soap" = "Jabón";
+"Please input food type" = "Tipo de comida";
+"Dismiss" = "Descartar";
+"Add" = "Añadir";
+"Kg" = "Kg";
+"L" = "L";
+"Lbs" = "Lbs";
+"Pcs" = "Pzs";
+"Spending" = "Gastos";
+"Total Spending" = "Gasto Total";
+"Rent" = "Alquiler";
+"Food" = "Alimentos";
+"Car Payment" = "Automóvil";
+"Entertainment" = "Entretenimiento";
+"Electricity" = "Electricidad";
+"Gas" = "Gas";
+"Transport Cost" = "Transporte";
+"Phone bill" = "Teléfono";
+"Gym" = "Gimnasio";
+"Edit" = "Editar";
+"Delete" = "Eliminar";
+"Update spending data" = "Actualizar datos de gastos";
+"Dismiss" = "Descartar";
+"Add" = "Añadir";
+"Add new Data" = "Añadir Datos nuevos";
+"Please input name" = "Escriba el nombre";
+"Expiry : " = "Fecha de caducidad : ";
+"Email : " = "Email : ";
+"Food" = "Alimentos";
+"Please input quantity" = "Escriba la cantidad";
+"Goal Quantity : " = "Cantidad deseada : ";
+"Contact Details" = "Datos de Contacto";
+"Quantity : " = "Cantidad : ";
+"Unit (Kg, L, Lbs, Pcs) : " = "Unidad(Kg, L, Lbs, Pzs) : ";
+"Language : " = "Sprache : ";
+"Name : " = "Name : ";
+"Please input goal" = "Bitte Ziel eingeben";
+"Missing Field" = "Campo perdido";
+"You must input food Name" = "Nombre de la comida";
+"Ok" = "Okay";
+"Loading Error" = "Error de carga";
+"Server Error" = "Error del Servidor";
+"Loading" = "Cargando";
+"Downloading Error" = "Error de descarga";
+"Uploading Error" = "Error de carga";
+"Deleting Failed" = "Error al eliminar";
+"You must input expiry date" = "Fecha de caducidad de entrada";
+"You must input quantity" = "Debe ingresar cantidad";
+"You must input goal quantity" = "Debe ingresar la cantidad objetivo";
+"You must select unit" = "Debes seleccionar la unidad";
+"title" = "Título";
+"price" = "Precio";
+"You must input 'spending title'" = "Debe ingresar 'título de gasto'";
+"You must input 'spending price'" = "Debe ingresar 'precio de gasto'";
+"Thanks for using my app!" = "Gracias por usar mi aplicación!";
+"Done" = "Hecho";
+"Select Language" = "Seleccione el idioma";
+

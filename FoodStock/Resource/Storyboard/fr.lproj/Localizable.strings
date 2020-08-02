@@ -1,0 +1,90 @@
+/* 
+  Localizable.strings
+  FoodStock
+
+  Created by Talent on 19.03.2020.
+  Copyright © 2020 Talent. All rights reserved.
+*/
+"Food stock and Spending" = "Stock alimentaire et dépenses";
+"Food stock" = "Stock alimentaire";
+"Spending" = "Dépenses";
+"Settings" = "Réglages";
+"Privacy Policy" = "Politique de confidentialité";
+"Food Stock" = "Stock alimentaire";
+"Stocked up" = "En stock";
+"Beverage" = "Boissons";
+"Milk" = "Lait";
+"Coffee" = "Café";
+"Fruit" = "Fruits";
+"Apple" = "Pommes";
+"Oranges" = "Oranges";
+"Grains" = "Épicerie salée";
+"Cereals" = "Céréales";
+"Flour" = "Farine";
+"Meat" = "Viande";
+"Chicken" = "Poulet";
+"Beef" = "Boeuf";
+"Pasta" = "Pâtes";
+"Macaroni" = "Macaronis";
+"Penne" = "Pennes";
+"Toiletries" = "Articles de toilette";
+"Toothpaste" = "Dentifrice";
+"Soap" = "Savon";
+"Please input food type" = "Veuillez saisir le type de nourriture";
+"Dismiss" = "Annuler";
+"Add" = "Ajouter";
+"Kg" = "Kg";
+"L" = "L";
+"Lbs" = "Lbs";
+"Pcs" = "Pcs";
+"Spending" = "Dépenses";
+"Total Spending" = "Dépenses totales";
+"Rent" = "Loyer";
+"Food" = "Alimentaire";
+"Car Payment" = "Voiture";
+"Entertainment" = "Divertissement";
+"Electricity" = "Électricité";
+"Gas" = "Gaz";
+"Transport Cost" = "Frais de transport";
+"Phone bill" = "Facture de téléphone";
+"Gym" = "Abonnement sportif";
+"Edit" = "Modifier";
+"Delete" = "Supprimer";
+"Update spending data" = "Mettre à jour les données sur les dépenses";
+"Dismiss" = "Annuler";
+"Add" = "Ajouter";
+"Add new Data" = "Ajouter une nouvelle donnée";
+"Please input name" = "Veuillez saisir le nom";
+"Expiry : " = "Expiration : ";
+"Email : " = "Email : ";
+"Food" = "Alimentaire";
+"Please input quantity" = "Veuillez entrer la quantité";
+"Goal Quantity : " = "Objectif de quantité : ";
+"Contact Details" = "Coordonnées de contact";
+"Quantity : " = "Quantité : ";
+"Unit (Kg, L, Lbs, Pcs) : " = "Unité(Kg, L, Lbs, Pcs) : ";
+"Language : " = "Langue : ";
+"Name : " = "Nom : ";
+"Please input goal" = "Veuillez entrer l'objectif";
+"Missing Field" = "Champ manquant";
+"You must input food Name" = "Nom de la nourriture";
+"Ok" = "Bien";
+
+"Loading Error" = "Erreur de chargement";
+"Server Error" = "Erreur du serveur";
+"Loading" = "Chargement";
+"Downloading Error" = "Erreur de téléchargement";
+"Uploading Error" = "Erreur de téléchargement";
+"Deleting Failed" = "Échec de la suppression";
+"You must input expiry date" = "Date d'expiration de l'entrée";
+"You must input quantity" = "Vous devez saisir la quantité";
+"You must input goal quantity" = "Vous devez saisir la quantité d'objectif";
+"You must select unit" = "Vous devez sélectionner l'unité";
+"title" = "Titre";
+"price" = "Prix";
+"You must input 'spending title'" = "Vous devez saisir le titre de la dépense";
+"You must input 'spending price'" = "Vous devez saisir le prix d'achat";
+"Thanks for using my app!" = "Merci d'utiliser mon application!";
+"Done" = "Terminé";
+"Select Language" = "Choisir la langue";
+

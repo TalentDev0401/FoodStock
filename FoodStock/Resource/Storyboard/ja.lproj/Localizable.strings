@@ -1,0 +1,89 @@
+/* 
+  Localizable.strings
+  FoodStock
+
+  Created by Talent on 19.03.2020.
+  Copyright © 2020 Talent. All rights reserved.
+*/
+"Food stock and Spending" = "食品在庫と出費";
+"Food stock" = "食品在庫";
+"Spending" = "出費";
+"Settings" = "設定";
+"Privacy Policy" = "プライバシー・ポリシー";
+"Food Stock" = "食品在庫";
+"Stocked up" = "在庫";
+"Beverage" = "飲み物";
+"Milk" = "牛乳";
+"Coffee" = "コーヒー";
+"Fruit" = "フルーツ";
+"Apple" = "りんご";
+"Oranges" = "オレンジ";
+"Grains" = "穀物";
+"Cereals" = "シリアル";
+"Flour" = "小麦粉";
+"Meat" = "肉";
+"Chicken" = "鶏肉";
+"Beef" = "牛肉";
+"Pasta" = "パスタ";
+"Macaroni" = "マカロニ";
+"Penne" = "ペンネ";
+"Toiletries" = "トイレ用品";
+"Toothpaste" = "歯磨き粉";
+"Soap" = "石鹸";
+"Please input food type" = "食品のタイプを入力してください";
+"Dismiss" = "閉じる";
+"Add" = "追加";
+"Kg" = "キロ";
+"L" = "リットル";
+"Lbs" = "ポンド";
+"Pcs" = "箱";
+"Spending" = "金額";
+"Total Spending" = "合計金額";
+"Rent" = "家賃";
+"Food" = "食品";
+"Car Payment" = "車関係";
+"Entertainment" = "娯楽";
+"Electricity" = "電気代";
+"Gas" = "ガス代";
+"Transport Cost" = "交通費";
+"Phone bill" = "電話代";
+"Gym" = "ジム";
+"Edit" = "編集";
+"Delete" = "削除";
+"Update spending data" = "金額を更新";
+"Dismiss" = "閉じる";
+"Add" = "追加";
+"Add new Data" = "新しいデータを追加";
+"Please input name" = "名前を入力してください";
+"Expiry : " = "消費期限 : ";
+"Email : " = "Eメール : ";
+"Food" = "食品";
+"Please input quantity" = "個数を入力してください";
+"Goal Quantity : " = "目標個数 : ";
+"Contact Details" = "コンタクト";
+"Quantity : " = "個数 : ";
+"Unit (Kg, L, Lbs, Pcs) : " = "単位(キロ, リットル, ポンド, 箱) : ";
+"Language : " = "言語 : ";
+"Name : " = "名前 : ";
+"Please input goal" = "目標を入力してください";
+"Missing Field" = "不足しているフィールド";
+"You must input food Name" = "食品名";
+"Ok" = "はい";
+"Loading Error" = "読み込みエラー";
+"Server Error" = "サーバーエラー";
+"Loading" = "読み込み中";
+"Downloading Error" = "ダウンロードエラー";
+"Uploading Error" = "アップロードエラー";
+"Deleting Failed" = "削除に失敗しました";
+"You must input expiry date" = "有効期限を入力してください";
+"You must input quantity" = "投入量";
+"You must input goal quantity" = "入力目標量";
+"You must select unit" = "ユニットを選択";
+"title" = "題名";
+"price" = "価格";
+"You must input 'spending title'" = "入力支出タイトル";
+"You must input 'spending price'" = "入力支出価格";
+"Thanks for using my app!" = "ありがとう!";
+"Done" = "完了";
+"Select Language" = "言語を選択する";
+

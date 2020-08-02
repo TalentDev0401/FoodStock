@@ -1,0 +1,6 @@
+framework module LMSideBarController {
+  umbrella header "LMSideBarController-umbrella.h"
+
+  export *
+  module * { export * }
+}

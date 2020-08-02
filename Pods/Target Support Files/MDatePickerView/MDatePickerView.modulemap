@@ -1,0 +1,6 @@
+framework module MDatePickerView {
+  umbrella header "MDatePickerView-umbrella.h"
+
+  export *
+  module * { export * }
+}

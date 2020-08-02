@@ -1,0 +1,77 @@
+/* 
+  Localizable.strings
+  FoodStock
+
+  Created by Talent on 19.03.2020.
+  Copyright © 2020 Talent. All rights reserved.
+*/
+
+/* No Comment provided by engineer. */
+"Food Stock" = "Продовольственный запас";
+/* No Comment provided by engineer. */
+"Spending" = "расходование";
+/* No Comment provided by engineer. */
+"Total Spending" = "Всего расходов";
+/* No Comment provided by engineer. */
+"Stocked Up" = "Заполненный до";
+/* No Comment provided by engineer. */
+"Settings" = "настройки";
+/* No Comment provided by engineer. */
+"Privacy Policy" = "политика конфиденциальности";
+/* No Comment provided by engineer. */
+"Add New Data" = "Добавить новые данные";
+/* No Comment provided by engineer. */
+"title" = "заглавие";
+/* No Comment provided by engineer. */
+"price" = "цена";
+/* No Comment provided by engineer. */
+"Dismiss" = "отклонять";
+/* No Comment provided by engineer. */
+"Add" = "добавлять";
+/* No Comment provided by engineer. */
+"Please input food type" = "Пожалуйста, введите тип пищи";
+/* No Comment provided by engineer. */
+"Downloading Error" = "Ошибка загрузки";
+/* No Comment provided by engineer. */
+"Uploading Error" = "Ошибка загрузки";
+/* No Comment provided by engineer. */
+"Loading" = "загрузка";
+/* No Comment provided by engineer. */
+"Deleting Failed" = "Ошибка удаления";
+/* No Comment provided by engineer. */
+"Delete" = "удалять";
+/* No Comment provided by engineer. */
+"Update Spending Data" = "Обновить данные о расходах";
+/* No Comment provided by engineer. */
+"Missing Field" = "Недостающее поле";
+/* No Comment provided by engineer. */
+"Edit" = "редактировать";
+/* No Comment provided by engineer. */
+"Loading Error" = "Ошибка загрузки";
+/* No Comment provided by engineer. */
+"Thanks for using my app!" = "Спасибо за использование моего приложения!";
+/* No Comment provided by engineer. */
+"Stocked Up" = "Заполненный до";
+/* No Comment provided by engineer. */
+/* No Comment provided by engineer. */
+/* No Comment provided by engineer. */
+/* No Comment provided by engineer. */
+/* No Comment provided by engineer. */
+/* No Comment provided by engineer. */
+/* No Comment provided by engineer. */
+/* No Comment provided by engineer. */
+/* No Comment provided by engineer. */
+/* No Comment provided by engineer. */
+/* No Comment provided by engineer. */
+/* No Comment provided by engineer. */
+/* No Comment provided by engineer. */
+/* No Comment provided by engineer. */
+/* No Comment provided by engineer. */
+/* No Comment provided by engineer. */
+/* No Comment provided by engineer. */
+/* No Comment provided by engineer. */
+/* No Comment provided by engineer. */
+/* No Comment provided by engineer. */
+/* No Comment provided by engineer. */
+/* No Comment provided by engineer. */
+

@@ -1,0 +1,89 @@
+/* 
+  Localizable.strings
+  FoodStock
+
+  Created by Talent on 19.03.2020.
+  Copyright © 2020 Talent. All rights reserved.
+*/
+"Food stock and Spending" = "Matlager och Utgifter";
+"Food stock" = "Matlager";
+"Spending" = "Utgifter";
+"Settings" = "Inställningar";
+"Privacy Policy" = "Integritetspolicy";
+"Food Stock" = "Matlager";
+"Stocked up" = "Lagret påfyllt";
+"Beverage" = "Dryck";
+"Milk" = "Mjölk";
+"Coffee" = "Kaffe";
+"Fruit" = "Frukt";
+"Apple" = "Äpple";
+"Oranges" = "Apelsiner";
+"Grains" = "Gryn";
+"Cereals" = "Flingor";
+"Flour" = "Mjöl";
+"Meat" = "Kött";
+"Chicken" = "Kyckling";
+"Beef" = "Nötkött";
+"Pasta" = "Pasta";
+"Macaroni" = "Makaroner";
+"Penne" = "Penne";
+"Toiletries" = "Hygieneartiklar";
+"Toothpaste" = "Tandkräm";
+"Soap" = "Tvål";
+"Please input food type" = "Var god skriv in matsort";
+"Dismiss" = "Avfärda";
+"Add" = "Addera";
+"Kg" = "Kg";
+"L" = "L";
+"Lbs" = "Pund";
+"Pcs" = "Styck";
+"Spending" = "Utgifter";
+"Total Spending" = "Totalutgift";
+"Rent" = "Hyra";
+"Food" = "Mat";
+"Car Payment" = "Bilavbetalning";
+"Entertainment" = "Nöje";
+"Electricity" = "Elektricitet";
+"Gas" = "Gas";
+"Transport Cost" = "Transportkostnad";
+"Phone bill" = "Telefonräkning";
+"Gym" = "Gym";
+"Edit" = "Ändra";
+"Delete" = "Radera";
+"Update spending data" = "Uppdatera utgiftskostnad";
+"Dismiss" = "Avfärda";
+"Add" = "Addera";
+"Add new Data" = "Addera ny Data";
+"Please input name" = "Var god skriv in namn";
+"Expiry : " = "Utgång : ";
+"Email : " = "Email : ";
+"Food" = "Mat";
+"Please input quantity" = "Var god skriv in kvantiteten";
+"Goal Quantity : " = "Målkvantitet : ";
+"Contact Details" = "Kontaktuppgifter";
+"Quantity : " = "Kvantitet : ";
+"Unit (Kg, L, Lbs, Pcs) : " = "Måttenhet ( Kg, L, Pund, Styck ) : ";
+"Language : " = "Språk : ";
+"Name : " = "Namn : ";
+"Please input goal" = "Var god skriv in målet";
+"Missing Field" = "Fält saknas";
+"You must input food Name" = "Du måste ange matnamn";
+"Ok" = "Okej";
+"Loading Error" = "Laddar fel";
+"Server Error" = "Serverfel";
+"Loading" = "Läser in";
+"Downloading Error" = "Nedladdningsfel";
+"Uploading Error" = "Uppladdningsfel";
+"Deleting Failed" = "Ta bort misslyckades";
+"You must input expiry date" = "Du måste ange utgångsdatum";
+"You must input quantity" = "Du måste mata in kvantitet";
+"You must input goal quantity" = "Du måste ange målkvantitet";
+"You must select unit" = "Du måste välja enhet";
+"title" = "Titel";
+"price" = "Pris";
+"You must input 'spending title'" = "Du måste ange utgiftstitel";
+"You must input 'spending price'" = "You must input spending price";
+"Thanks for using my app!" = "Tack för att du använder min app!";
+"Done" = "Gjort";
+"Select Language" = "Välj språk";
+
